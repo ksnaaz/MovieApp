@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="all_movies">All Movies</string>
+    <string name="fav_movies">Favourite Movies</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="search_string">Search</string>
+    <string name="search_hint">Searching</string>
+</resources>
